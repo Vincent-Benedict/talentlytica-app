@@ -1,0 +1,45 @@
+.table-container{
+    display: flex;
+    align-items: center;
+    padding: 0.3em 0em;
+}
+
+.sws-identity{
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.sws-image{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.sws-name{
+    width: 75%;
+}
+
+.sws-identity-image{
+    width: 30px;
+}
+
+.sws-table{
+    width: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sws-table .score-header{
+   width: 25%;
+   margin: auto;
+}
+
+.score-header p{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
